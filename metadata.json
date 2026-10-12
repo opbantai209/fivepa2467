@@ -1,0 +1,6 @@
+{
+  "name": "PeoplePerHour - Freelance Marketplace & WorkStream",
+  "description": "Find and hire top freelance talent, discover fixed-price Offers, post projects, and collaborate in real-time with WorkStream escrow, invoicing, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
